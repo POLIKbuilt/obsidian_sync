@@ -4,6 +4,8 @@
 3. [[Tale of Misfortuned Сессия 3]]
 4. [[Tale of Misfortuned Сессия 4]]
 5. [[Tale of Misfortuned Сессия 5]]
+6. [[Tale of Misfortuned Сессия 6]]
+7. 
 
 ## Start
 Эта история начинается в мире под названием Есферия. По необъятному мировому
