@@ -1,10 +1,16 @@
 {
 	"nodes":[
-		{"id":"62e98296a30e6488","x":-1000,"y":-640,"width":250,"height":60,"type":"text","text":"СВЕТ\n"},
-		{"id":"85a4893e2272f3f6","x":-420,"y":-640,"width":250,"height":60,"type":"text","text":"ХАОС"},
-		{"id":"bb1120cdc56acaae","x":740,"y":-640,"width":250,"height":60,"type":"text","text":"МАТЕРИЯ"},
-		{"id":"01f970004b14066f","x":180,"y":-640,"width":250,"height":60,"type":"text","text":"СИЛА"},
-		{"id":"5d8731aa99c5c4e6","x":-1420,"y":-420,"width":250,"height":60,"type":"text","text":"Акатош"}
+		{"id":"62e98296a30e6488","type":"text","text":"СВЕТ\n","x":-1000,"y":-640,"width":250,"height":60},
+		{"id":"85a4893e2272f3f6","type":"text","text":"ХАОС","x":-420,"y":-640,"width":250,"height":60},
+		{"id":"5d8731aa99c5c4e6","type":"text","text":"Акатош","x":-1420,"y":-420,"width":250,"height":60},
+		{"id":"9de3038f08b9e742","x":-600,"y":-360,"width":250,"height":60,"type":"text","text":"ВРОНДИС "},
+		{"id":"df4ef5809a1a6ee5","x":-295,"y":-360,"width":250,"height":60,"type":"text","text":"АЛАМАРИЯ"},
+		{"id":"c5289570684ae7bf","x":0,"y":-360,"width":250,"height":60,"type":"text","text":"АББАДОН "},
+		{"id":"bb1120cdc56acaae","type":"text","text":"МАТЕРИЯ","x":1680,"y":-740,"width":250,"height":60},
+		{"id":"01f970004b14066f","type":"text","text":"СИЛА","x":720,"y":-710,"width":250,"height":60},
+		{"id":"7e5b052960a1fd7f","x":1555,"y":-500,"width":250,"height":60,"type":"text","text":"КАЗУК"},
+		{"id":"a4b5cbbfaf83eea8","x":1860,"y":-500,"width":250,"height":60,"type":"text","text":"ШЕНХАРА"},
+		{"id":"f47a3645951bd3f5","x":1680,"y":-300,"width":250,"height":60,"type":"text","text":"КОМУС-МИНЕ"}
 	],
 	"edges":[]
 }
