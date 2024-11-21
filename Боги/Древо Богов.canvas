@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"62e98296a30e6488","x":-1000,"y":-640,"width":250,"height":60,"type":"text","text":"СВЕТ\n"},
+		{"id":"85a4893e2272f3f6","x":-420,"y":-640,"width":250,"height":60,"type":"text","text":"ХАОС"},
+		{"id":"bb1120cdc56acaae","x":740,"y":-640,"width":250,"height":60,"type":"text","text":"МАТЕРИЯ"},
+		{"id":"01f970004b14066f","x":180,"y":-640,"width":250,"height":60,"type":"text","text":"СИЛА"},
+		{"id":"5d8731aa99c5c4e6","x":-1420,"y":-420,"width":250,"height":60,"type":"text","text":"Акатош"}
+	],
+	"edges":[]
+}
