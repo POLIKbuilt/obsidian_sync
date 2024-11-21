@@ -11,15 +11,18 @@
 		{"id":"e25cc8586ff64a4f","x":595,"y":-480,"width":250,"height":60,"type":"text","text":"ФУГАРТ "},
 		{"id":"ed42bdfde6c12476","x":920,"y":-480,"width":250,"height":60,"type":"text","text":"АЙША"},
 		{"id":"663a5bc2fc4f5a1a","x":1220,"y":-480,"width":250,"height":60,"type":"text","text":"ЭШЛИН"},
-		{"id":"5d8731aa99c5c4e6","type":"text","text":"Акатош","x":-1740,"y":-390,"width":250,"height":60},
-		{"id":"d83517567433a86f","x":-1445,"y":-390,"width":250,"height":60,"type":"text","text":"ЛОСКУТИЯ"},
 		{"id":"62e98296a30e6488","type":"text","text":"СВЕТ\n","x":-1380,"y":-650,"width":250,"height":60},
-		{"id":"8db825eeac759a13","x":-1130,"y":-390,"width":250,"height":60,"type":"text","text":"РАФАТЕРИЯ"},
 		{"id":"f47a3645951bd3f5","x":2200,"y":-500,"width":250,"height":60,"type":"text","text":"КОМУС-МИНЕ"},
-		{"id":"5fa685ef7e536b65","x":55,"y":-1160,"width":250,"height":60,"type":"text","text":"ЕДИНАЯ СИЛА"},
+		{"id":"5fa685ef7e536b65","x":55,"y":-1160,"width":325,"height":60,"type":"text","text":"ЕДИНАЯ ЕНЕРГИЯ МИРОЗДАНИЯ"},
 		{"id":"534f7e8ea3a31def","x":-1900,"y":-60,"width":250,"height":60,"type":"text","text":"МОРДВАРД"},
 		{"id":"743857a872596dc7","x":-1615,"y":-60,"width":250,"height":60,"type":"text","text":"ООР"},
-		{"id":"67d72bcdc2a38542","x":-1320,"y":-60,"width":250,"height":60,"type":"text","text":"КОРФЕЙ"}
+		{"id":"67d72bcdc2a38542","x":-1320,"y":-60,"width":250,"height":60,"type":"text","text":"КОРФЕЙ"},
+		{"id":"5d8731aa99c5c4e6","type":"text","text":"Акатош","x":-1900,"y":-390,"width":250,"height":60},
+		{"id":"d83517567433a86f","x":-1505,"y":-390,"width":250,"height":60,"type":"text","text":"ЛОСКУТИЯ"},
+		{"id":"8db825eeac759a13","x":-1070,"y":-390,"width":250,"height":60,"type":"text","text":"РАФАТЕРИЯ"},
+		{"id":"b012c7c4cd2f06e3","x":-670,"y":-160,"width":250,"height":60,"type":"text","text":"ТИАМАТ"},
+		{"id":"9df4806694e71209","x":2110,"y":-240,"width":250,"height":60,"type":"text","text":"МИНЕ"},
+		{"id":"db1be0076f7b0eb0","x":2400,"y":-240,"width":250,"height":60,"type":"text","text":"СИЛИМИНЕ"}
 	],
 	"edges":[
 		{"id":"ea34f16704b97355","fromNode":"62e98296a30e6488","fromSide":"bottom","toNode":"5d8731aa99c5c4e6","toSide":"top"},
@@ -38,11 +41,12 @@
 		{"id":"1ddbea27c4fb4f29","fromNode":"5fa685ef7e536b65","fromSide":"bottom","toNode":"62e98296a30e6488","toSide":"top"},
 		{"id":"6ab9ac647dbc1329","fromNode":"5fa685ef7e536b65","fromSide":"bottom","toNode":"01f970004b14066f","toSide":"top"},
 		{"id":"f34e93632dd06a0a","fromNode":"5fa685ef7e536b65","fromSide":"bottom","toNode":"bb1120cdc56acaae","toSide":"top"},
-		{"id":"03f89d03a58e4874","fromNode":"5d8731aa99c5c4e6","fromSide":"bottom","toNode":"534f7e8ea3a31def","toSide":"top"},
-		{"id":"b7f3e8b40eca65d0","fromNode":"d83517567433a86f","fromSide":"bottom","toNode":"534f7e8ea3a31def","toSide":"top"},
-		{"id":"25fa2f4061b9ee2e","fromNode":"5d8731aa99c5c4e6","fromSide":"bottom","toNode":"743857a872596dc7","toSide":"top"},
-		{"id":"5539aa32761fa539","fromNode":"d83517567433a86f","fromSide":"bottom","toNode":"743857a872596dc7","toSide":"top"},
-		{"id":"562650a508c352c6","fromNode":"5d8731aa99c5c4e6","fromSide":"bottom","toNode":"67d72bcdc2a38542","toSide":"top"},
-		{"id":"bf262e263edcd6a6","fromNode":"d83517567433a86f","fromSide":"bottom","toNode":"67d72bcdc2a38542","toSide":"top"}
+		{"id":"55158d2d2626e9b1","fromNode":"5d8731aa99c5c4e6","fromSide":"right","toNode":"d83517567433a86f","toSide":"left"},
+		{"id":"adb9398c41ad3ffd","fromNode":"d83517567433a86f","fromSide":"bottom","toNode":"534f7e8ea3a31def","toSide":"top"},
+		{"id":"87f4912814a742f4","fromNode":"d83517567433a86f","fromSide":"bottom","toNode":"743857a872596dc7","toSide":"top"},
+		{"id":"de74fb892d91d679","fromNode":"d83517567433a86f","fromSide":"bottom","toNode":"67d72bcdc2a38542","toSide":"top"},
+		{"id":"fa4b4f2141e86172","fromNode":"9de3038f08b9e742","fromSide":"bottom","toNode":"b012c7c4cd2f06e3","toSide":"top"},
+		{"id":"3a64f3fcad7cae1e","fromNode":"f47a3645951bd3f5","fromSide":"bottom","toNode":"9df4806694e71209","toSide":"top"},
+		{"id":"d64693e435467803","fromNode":"f47a3645951bd3f5","fromSide":"bottom","toNode":"db1be0076f7b0eb0","toSide":"top"}
 	]
 }
