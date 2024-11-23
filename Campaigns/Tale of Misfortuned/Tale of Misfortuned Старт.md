@@ -1,13 +1,13 @@
 ### Список заметок для сессий
-1. [[Tale of Misfortuned Сессия 1]]
-2. [[Tale of Misfortuned Сессия 2]]
-3. [[Tale of Misfortuned Сессия 3]]
-4. [[Tale of Misfortuned Сессия 4]]
-5. [[Tale of Misfortuned Сессия 5]]
-6. [[Tale of Misfortuned Сессия 6]]
-7. [[Tale of Misfortuned Сессия 7]]
-8. [[Tale of Misfortuned Сессия 8]]
-9. [[Tale of Misfortuned Сессия 9]]
+1. [[ToM Сессия 1]]
+2. [[ToM Сессия 2]]
+3. [[ToM Сессия 3]]
+4. [[ToM Сессия 4]]
+5. [[ToM Сессия 5]]
+6. [[ToM Сессия 6]]
+7. [[ToM Сессия 7]]
+8. [[ToM Сессия 8]]
+9. [[ToM Сессия 9]]
 
 ## Герои 
 
