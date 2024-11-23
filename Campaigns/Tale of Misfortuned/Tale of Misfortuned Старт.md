@@ -7,7 +7,14 @@
 6. [[Tale of Misfortuned Сессия 6]]
 7. [[Tale of Misfortuned Сессия 7]]
 8. [[Tale of Misfortuned Сессия 8]]
-9. 
+9. [[Tale of Misfortuned Сессия 9]]
+
+## Герои 
+
+1. [[Гидеон Локк]] 
+2. [[Прогрев Гоев]] 
+3. [[Диего Гессен]] 
+4. [[Ашкул]]
 
 
 ## Start
