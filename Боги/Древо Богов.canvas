@@ -32,7 +32,7 @@
 		{"id":"01f970004b14066f","type":"text","text":"СИЛА","x":-1075,"y":-650,"width":250,"height":60,"color":"2"},
 		{"id":"ed42bdfde6c12476","type":"text","text":"АЙША","x":-1075,"y":-390,"width":250,"height":60,"color":"5"},
 		{"id":"e25cc8586ff64a4f","type":"text","text":"ФУГАРТ ","x":-760,"y":-390,"width":250,"height":60,"color":"2"},
-		{"id":"1198c49f355f48ce","x":-950,"y":-60,"width":250,"height":60,"type":"text","text":"Хельтас"}
+		{"id":"1198c49f355f48ce","type":"text","text":"ХЕЛЬТАС","x":-950,"y":-60,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"ea34f16704b97355","fromNode":"62e98296a30e6488","fromSide":"bottom","toNode":"5d8731aa99c5c4e6","toSide":"top"},
@@ -67,6 +67,8 @@
 		{"id":"b4e9f4d8c994bac3","fromNode":"c5289570684ae7bf","fromSide":"bottom","toNode":"ef158bbc8dbab82f","toSide":"right"},
 		{"id":"38f356781e5188bb","fromNode":"c5289570684ae7bf","fromSide":"bottom","toNode":"05935cd7d2557b63","toSide":"left"},
 		{"id":"595ec32dd0de6086","fromNode":"c5289570684ae7bf","fromSide":"bottom","toNode":"9dd443cbc1ce14b0","toSide":"right"},
-		{"id":"f42b3cb75501cc1b","fromNode":"c5289570684ae7bf","fromSide":"bottom","toNode":"124f0320cd0ca43b","toSide":"left"}
+		{"id":"f42b3cb75501cc1b","fromNode":"c5289570684ae7bf","fromSide":"bottom","toNode":"124f0320cd0ca43b","toSide":"left"},
+		{"id":"6be66a4495663b19","fromNode":"ed42bdfde6c12476","fromSide":"bottom","toNode":"1198c49f355f48ce","toSide":"top"},
+		{"id":"8cf072bd59f2b3d9","fromNode":"e25cc8586ff64a4f","fromSide":"bottom","toNode":"1198c49f355f48ce","toSide":"top"}
 	]
 }
