@@ -33,7 +33,10 @@
 		{"id":"ed42bdfde6c12476","type":"text","text":"АЙША","x":-1075,"y":-390,"width":250,"height":60,"color":"5"},
 		{"id":"e25cc8586ff64a4f","type":"text","text":"ФУГАРТ ","x":-760,"y":-390,"width":250,"height":60,"color":"2"},
 		{"id":"1198c49f355f48ce","type":"text","text":"ХЕЛЬТАС","x":-635,"y":-60,"width":250,"height":60,"color":"2"},
-		{"id":"acfb0c6740d915d3","x":-1040,"y":-60,"width":250,"height":60,"color":"4","type":"text","text":"РАДАНА "}
+		{"id":"acfb0c6740d915d3","type":"text","text":"РАДАНА ","x":-1040,"y":-60,"width":250,"height":60,"color":"4"},
+		{"id":"1827aab4efbb5e37","x":-320,"y":70,"width":250,"height":60,"color":"#113800","type":"text","text":"БАГУРГЛ"},
+		{"id":"a41b78bec66e7d8a","type":"text","text":"ГАЛКЫЛ ","x":-510,"y":280,"width":250,"height":50,"color":"#113800"},
+		{"id":"ddf7e36e04414a3d","type":"text","text":"МОРГАЛА","x":-195,"y":280,"width":250,"height":50,"color":"#113800"}
 	],
 	"edges":[
 		{"id":"ea34f16704b97355","fromNode":"62e98296a30e6488","fromSide":"bottom","toNode":"5d8731aa99c5c4e6","toSide":"top"},
