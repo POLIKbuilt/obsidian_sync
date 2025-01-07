@@ -34,9 +34,10 @@
 		{"id":"acfb0c6740d915d3","type":"text","text":"РАДАНА ","x":-1880,"y":-60,"width":250,"height":60,"color":"4"},
 		{"id":"e25cc8586ff64a4f","type":"text","text":"ФУГАРТ ","x":-1600,"y":-390,"width":250,"height":60,"color":"2"},
 		{"id":"1198c49f355f48ce","type":"text","text":"ХЕЛЬТАС","x":-1475,"y":-60,"width":250,"height":60,"color":"2"},
-		{"id":"1827aab4efbb5e37","x":-835,"y":-160,"width":250,"height":60,"color":"#113800","type":"text","text":"БАГУРГЛ"},
+		{"id":"1827aab4efbb5e37","type":"text","text":"БАГУРГЛ","x":-835,"y":-160,"width":250,"height":60,"color":"#113800"},
 		{"id":"ddf7e36e04414a3d","type":"text","text":"МОРГАЛА","x":-435,"y":-160,"width":260,"height":60,"color":"#113800"},
-		{"id":"a41b78bec66e7d8a","type":"text","text":"ГАЛКЫЛ ","x":-960,"y":170,"width":250,"height":60,"color":"#113800"}
+		{"id":"a41b78bec66e7d8a","type":"text","text":"ГАЛКЫЛ ","x":-960,"y":170,"width":250,"height":60,"color":"#113800"},
+		{"id":"56a125118d453419","type":"text","text":"ГАЛКЫЛ ","x":-555,"y":170,"width":250,"height":60,"color":"#113800"}
 	],
 	"edges":[
 		{"id":"ea34f16704b97355","fromNode":"62e98296a30e6488","fromSide":"bottom","toNode":"5d8731aa99c5c4e6","toSide":"top"},
@@ -79,6 +80,8 @@
 		{"id":"6d4b511eee0d6a3e","fromNode":"1827aab4efbb5e37","fromSide":"bottom","toNode":"a41b78bec66e7d8a","toSide":"top"},
 		{"id":"cc78bba32f7a80f3","fromNode":"ddf7e36e04414a3d","fromSide":"bottom","toNode":"a41b78bec66e7d8a","toSide":"top"},
 		{"id":"296f42a8a9654261","fromNode":"c5289570684ae7bf","fromSide":"bottom","toNode":"ddf7e36e04414a3d","toSide":"top"},
-		{"id":"301ef36991e188bd","fromNode":"c5289570684ae7bf","fromSide":"bottom","toNode":"1827aab4efbb5e37","toSide":"top"}
+		{"id":"301ef36991e188bd","fromNode":"c5289570684ae7bf","fromSide":"bottom","toNode":"1827aab4efbb5e37","toSide":"top"},
+		{"id":"6cd310fe8948f386","fromNode":"1827aab4efbb5e37","fromSide":"bottom","toNode":"56a125118d453419","toSide":"top"},
+		{"id":"b690f701ec0671ef","fromNode":"ddf7e36e04414a3d","fromSide":"bottom","toNode":"56a125118d453419","toSide":"top"}
 	]
 }
