@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"5fa685ef7e536b65","type":"text","text":"ЕДИНАЯ ЕНЕРГИЯ МИРОЗДАНИЯ","x":55,"y":-1160,"width":325,"height":60},
+		{"id":"5fa685ef7e536b65","type":"text","text":"АБСОЛЮТНАЯ ЕНЕРГИЯ МИРОЗДАНИЯ","x":55,"y":-1160,"width":405,"height":60},
 		{"id":"c5289570684ae7bf","type":"text","text":"АББАДОН ","x":280,"y":-390,"width":250,"height":60,"color":"1"},
 		{"id":"df4ef5809a1a6ee5","type":"text","text":"АЛАМАРИЯ","x":600,"y":-390,"width":250,"height":60,"color":"#0d0b89"},
 		{"id":"9de3038f08b9e742","type":"text","text":"ВРОНДИС ","x":930,"y":-390,"width":250,"height":60,"color":"#970c79"},
@@ -84,6 +84,7 @@
 		{"id":"41ba109c2d8df4a2","fromNode":"5fa685ef7e536b65","fromSide":"bottom","toNode":"01f970004b14066f","toSide":"top"},
 		{"id":"d56c39a85ab6b1b1","fromNode":"8db825eeac759a13","fromSide":"bottom","toNode":"acfb0c6740d915d3","toSide":"top"},
 		{"id":"5ee5beb29c2f36c8","fromNode":"663a5bc2fc4f5a1a","fromSide":"bottom","toNode":"acfb0c6740d915d3","toSide":"top"},
-		{"id":"e3289368397a6266","fromNode":"ed42bdfde6c12476","fromSide":"bottom","toNode":"d5b149b44dbf183e","toSide":"top"}
+		{"id":"e3289368397a6266","fromNode":"ed42bdfde6c12476","fromSide":"bottom","toNode":"d5b149b44dbf183e","toSide":"top"},
+		{"id":"7de9ce2deb824d9e","fromNode":"663a5bc2fc4f5a1a","fromSide":"bottom","toNode":"dfb2219987db9a30","toSide":"top"}
 	]
 }
