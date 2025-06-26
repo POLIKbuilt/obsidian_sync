@@ -1,7 +1,8 @@
 Monster-guard of Montegro - https://www.artstation.com/artwork/qQV89e
 
-
 Cover - Art 1 - https://www.artstation.com/artwork/vavqE
+
+Sea Spawn - https://www.artstation.com/artwork/g0R5ee
 
 
 ### Image Contents: 
