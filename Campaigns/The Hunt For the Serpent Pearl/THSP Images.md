@@ -1,9 +1,12 @@
-Monster-guard of Montegro - https://www.artstation.com/artwork/QrZP98
+Monster-guard of Montegro - https://www.artstation.com/artwork/qQV89e
+
 
 Cover - Art 1 - https://www.artstation.com/artwork/vavqE
 
 
 ### Image Contents: 
+
+One of monster guards - https://www.artstation.com/artwork/QrZP98
 
 Undersea Minions - https://www.artstation.com/artwork/nqLxo
 
