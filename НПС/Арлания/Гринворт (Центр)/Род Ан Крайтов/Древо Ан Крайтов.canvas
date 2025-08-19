@@ -36,14 +36,14 @@
 		{"id":"974b7265cb27aeee","type":"text","text":"[[Олфан Серорук]]","x":-745,"y":1780,"width":250,"height":60},
 		{"id":"1e5ac3429dbd9d99","type":"text","text":"[[Вильям Ан Крайт]]","x":-375,"y":1840,"width":250,"height":60},
 		{"id":"4c1172541d24cbb7","type":"text","text":"[[Рогир Рейн]]","x":1000,"y":1400,"width":250,"height":60},
-		{"id":"73dabe8b7146198a","x":800,"y":1690,"width":250,"height":60,"type":"text","text":"[[Мария Ан Крайт]]"},
-		{"id":"1062e9b013831aae","x":1160,"y":1690,"width":250,"height":60,"type":"text","text":"[[Бор Рейн]]"},
-		{"id":"60aeeee367286ba8","x":1000,"y":1940,"width":250,"height":60,"type":"text","text":"[[Лохтар Рейн]]"},
-		{"id":"8becba16231b8af0","x":-1160,"y":1190,"width":140,"height":210,"type":"file","file":"Исходники/Гербы и Флаги/Герб_Дома_Розильт.jpg"},
-		{"id":"af2a997bb838e9e1","x":1019,"y":2108,"width":152,"height":152,"type":"file","file":"Исходники/Гербы и Флаги/герб_дома_Рейн.png"},
+		{"id":"73dabe8b7146198a","type":"text","text":"[[Мария Ан Крайт]]","x":800,"y":1690,"width":250,"height":60},
+		{"id":"1062e9b013831aae","type":"text","text":"[[Бор Рейн]]","x":1160,"y":1690,"width":250,"height":60},
+		{"id":"60aeeee367286ba8","type":"text","text":"[[Лохтар Рейн]]","x":1000,"y":1940,"width":250,"height":60},
+		{"id":"8becba16231b8af0","type":"file","file":"GITHUB/Исходники/Гербы и Флаги/Герб_Дома_Розильт.jpg","x":-1160,"y":1190,"width":140,"height":210},
+		{"id":"af2a997bb838e9e1","type":"file","file":"GITHUB/Исходники/Гербы и Флаги/герб_дома_Рейн.png","x":1019,"y":2108,"width":152,"height":152},
 		{"id":"ec5d71b3fee147de","type":"text","text":"[[Квайн Авалон]]","x":1410,"y":1400,"width":250,"height":60},
-		{"id":"9b5a9419f60c1be5","x":1498,"y":1588,"width":162,"height":162,"type":"file","file":"Исходники/Гербы и Флаги/Герб_Дома_Авалон.png"},
-		{"id":"14572be223cd383c","type":"file","file":"Исходники/Гербы и Флаги/герб_арлании.png","x":734,"y":-140,"width":491,"height":604}
+		{"id":"9b5a9419f60c1be5","type":"file","file":"GITHUB/Исходники/Гербы и Флаги/Герб_Дома_Авалон.png","x":1498,"y":1588,"width":162,"height":162},
+		{"id":"14572be223cd383c","type":"file","file":"GITHUB/Исходники/Гербы и Флаги/герб_арлании.png","x":734,"y":-140,"width":491,"height":604}
 	],
 	"edges":[
 		{"id":"2b110a713c89ceb7","fromNode":"e8f97b62b4ddbf90","fromSide":"right","toNode":"67ae5d9d523869d6","toSide":"left","fromEnd":"arrow","color":"1"},
